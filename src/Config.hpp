@@ -1,0 +1,9 @@
+#pragma once
+
+#define UVC_VENDOR_ID 0x0bda
+#define UVC_PRODUCT_ID 0x5830
+
+#define UVC_DEVICE_FORCE_DESC false
+#define UVC_DEVICE_RES_WIDTH 256
+#define UVC_DEVICE_RES_HEIGHT 192
+#define UVC_DEVICE_FPS 25
